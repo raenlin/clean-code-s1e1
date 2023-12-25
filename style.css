@@ -18,7 +18,8 @@ body {
 }
 
 @media (max-width:768px) {
-  .top__wrapper { text-align: center;
+  .top__wrapper { 
+    text-align: center;
   }
 }
 .main__wrapper {
